@@ -1,5 +1,5 @@
 ### Date created
-06-08-2020
+This file is created on June.8 2020
 
 ### Project Title
 bikeshare project
@@ -14,4 +14,4 @@ new_york_city.csv
 washington.csv
 
 ### Credits
-Udacity's e-learning platform.
+Thanks to Udacity for creating this great opportunity for people to develop their skills in their comfort zone.
