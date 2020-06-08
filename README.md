@@ -1,11 +1,13 @@
 ### Date created
-04-17-2020
+06-08-2020
 
 ### Project Title
 bikeshare project
 
 ### Description
-Python is used to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. A script is used that takes in raw input to create an interactive experience in the terminal to present these statistics.
+Over the past decade, bicycle-sharing systems have been growing in number and popularity in cities across the world. Bicycle-sharing systems allow users to rent bicycles on a very short-term basis for a price. This allows people to borrow a bike from point A and return it at point B, though they can also return it to the same location if they'd like to just go for a ride. Regardless, each bike can serve several users per day.
+
+Python is used to understand U.S. bikeshare data for the three main cities in the United States which I used to calculate the statistics and built an interactive environment where a user chooses the data and filter for a dataset to analyze.
 
 ### Files used
 bikeshare.py
@@ -14,4 +16,4 @@ new_york_city.csv
 washington.csv
 
 ### Credits
-Udacity's e-learning platform.
+Thanks to Udacity for creating this great opportunity for people to develop their skills in their comfort zone.
