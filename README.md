@@ -1,11 +1,11 @@
 ### Date created
-04-17-2020
+06-08-2020
 
 ### Project Title
 bikeshare project
 
 ### Description
-Python is used to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. A script is used that takes in raw input to create an interactive experience in the terminal to present these statistics.
+Python is used to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. An interactive environment was built where a user chooses the data and filter for a dataset to analysze.
 
 ### Files used
 bikeshare.py
