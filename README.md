@@ -1,11 +1,14 @@
 ### Date created
-This file is created on June.8 2020
+This day June 8th, 2020
+
 
 ### Project Title
 bikeshare project
 
 ### Description
-Over the past decade, bicycle-sharing systems have been growing in number and popularity in cities across the world. Python is used to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. An interactive environment was built where a user chooses the data and filter for a dataset to analysze. 
+
+Data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington was explored. Using Python, codes were written to import the data and answer interesting questions about it by computing descriptive statistics.
+
 
 ### Files used
 bikeshare.py
